@@ -2,6 +2,7 @@ TabPageView
 ===================================
 
 
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/hsylife/SwiftyPickerPopover)
 
 ![1](https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/tabpage-border-menu.png)
 ![2](https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/tabpage-underline-menu.png)
