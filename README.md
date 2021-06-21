@@ -3,9 +3,12 @@ TabPageView
 
 
 ### Demo
-<img src="https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/tabpage-border-menu.png" alt="..." width="250" />
-<img src="https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/tabpage-underline-menu.png" alt="..." width="250" />
-<img src="https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/setting-tabpage.png" alt="..." width="250" />
+<div>
+  <img src="https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/tabpage-border-menu.png" alt="..." width="250" />
+  <img src="https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/tabpage-underline-menu.png" alt="..." width="250" />
+  <img src="https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/setting-tabpage.png" alt="..." width="250" />
+</div>
+
 
 
 Customizable PageView ViewController and ColletionView in Swift
