@@ -2,11 +2,11 @@ TabPageView
 ===================================
 
 
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/hsylife/SwiftyPickerPopover)
+### Demo
+<img src="https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/tabpage-border-menu.png" alt="..." width="250" />
+<img src="https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/tabpage-underline-menu.png" alt="..." width="250" />
+<img src="https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/setting-tabpage.png" alt="..." width="250" />
 
-![1](https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/tabpage-border-menu.png)
-![2](https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/tabpage-underline-menu.png)
-![3](https://github.com/xuantrieu0810/TabPageView/blob/main/screen-shot/setting-tabpage.png)
 
 Customizable PageView ViewController and ColletionView in Swift
 
